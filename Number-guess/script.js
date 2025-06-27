@@ -1,4 +1,4 @@
-const rannum = parseInt(Math.random() * 10 + 1);
+const rannum = parseInt(Math.random() * 100 + 1);
 const form = document.querySelector("form");
 let array = [];
 let attempts = 10;
